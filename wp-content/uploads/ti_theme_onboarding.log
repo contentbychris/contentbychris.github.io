@@ -1,0 +1,18 @@
+[01/Aug/2020:14:18:09] (I): WordPress Instance Info:
+[01/Aug/2020:14:18:09] (I): Home URL : http://localhost/wordpress
+[01/Aug/2020:14:18:09] (I): Site URL : http://localhost/wordpress
+[01/Aug/2020:14:18:09] (I): WordPress Version : 5.4.2
+[01/Aug/2020:14:18:09] (I): Onboarding Version : 1.0.1
+[01/Aug/2020:14:18:09] (I): Multisite : No
+[01/Aug/2020:14:18:09] (I): Server Info : Apache
+[01/Aug/2020:14:18:09] (I): PHP Version : 7.4.7
+[01/Aug/2020:14:18:09] (I): HTTPS : No
+[01/Aug/2020:14:18:09] (I): PHP Max Execution Time : 120
+[01/Aug/2020:14:18:09] (I): PHP Max Input Vars : 1000
+[01/Aug/2020:14:18:09] (I): Max Upload Size : 41943040
+[01/Aug/2020:14:18:09] (I): Plugins:
+[01/Aug/2020:14:18:09] (I): [PLUGIN] All-in-One WP Migration : v7.25 (ServMask)
+[01/Aug/2020:14:18:09] (I): [PLUGIN] Elementor : v2.9.14 (Elementor.com)
+[01/Aug/2020:14:18:09] (I): [PLUGIN] WP2Static : v6.6.7 (Leon Stafford)
+[01/Aug/2020:14:18:09] (I): [PLUGIN] Orbit Fox Companion : v2.9.12 (Themeisle)
+[01/Aug/2020:14:18:09] (I): [PLUGIN] WP Mail SMTP : v2.2.1 (WPForms)
